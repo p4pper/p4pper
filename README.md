@@ -140,4 +140,3 @@ I prefer understanding how things work underneath the abstraction rather than tr
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/hareth-alamer-285306237/)
-[LinkedIn](https://www.linkedin.com/in/hareth-alamer-285306237/)
