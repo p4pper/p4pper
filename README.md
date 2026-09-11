@@ -11,11 +11,11 @@ A hardware/software compatibility research investigating Intel iGPU acceleration
 ### [ArcNet](https://github.com/p4pper/ArcNet-Tool)
 A discontinued private C# security research analysis & vulnerability testing tool licensed to 70+ clients
 
-### GTAInsideTrack
+### [GTA Inside Track](https://github.com/p4pper/GTA-Inside-Track-Calculator)
 A probability and odds calculator for GTA V Online's casino horse racing. Tested to demonstrate my C# CLI interface library
 
-### OpenSteak Project
-A simulated Mines-style gambling game built to demonstrate probability, house edge, and expected outcomes. Fully configurable, built using C#.
+### [OpenSteak WPF](https://github.com/p4pper/OpenSteak-Mines-WPF)
+A simulated Mines-style gambling game built to demonstrate probability, house edge, and expected outcomes. Fully configurable, built using C#, WPF, and XML.
 
 ### [Source 1 Movement FPS Controller](https://github.com/p4pper/Godot-Source-Movement-FPS/tree/main)
 A first-person movement controller inspired by the movement mechanics of Source-engine games in Godot Engine 3.0 (using GDScript & C#)
